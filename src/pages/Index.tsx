@@ -138,7 +138,7 @@ const Index = () => {
             © 2024 Strelix. All rights reserved. Powered by VidLink & TMDB.
           </p>
           <p className="text-muted-foreground/60 text-xs">
-            Made by ayl
+            Made by Aizen
           </p>
         </div>
       </footer>
